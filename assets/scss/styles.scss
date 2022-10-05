@@ -1,0 +1,28 @@
+$primary: blue;
+$text: grey;
+
+body {
+  background-color: $primary;
+}
+
+h1, p {
+  color: $text
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+}
+
+.accordion {
+  button {
+    background-color: aqua;
+  }
+}
+
+// Questo genera 100 classi in CSS
+@for $idx from 1 through 100 {
+  .width-#{$idx} {
+      width:  $idx * 1%
+  }
+}

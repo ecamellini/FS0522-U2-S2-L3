@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "test": "echo \"Test\"",
+    "sass-watch": "sass --no-source-map assets/scss/styles.scss assets/css/styles.css -w"
+  },
   "dependencies": {
     "bootstrap": "^5.2.2"
   }
