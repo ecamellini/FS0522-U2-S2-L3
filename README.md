@@ -1,9 +1,9 @@
 # Come eseguire e sviluppare in locale
 
-Clona il repository e esegui il seguente comando:
+Clona il repository e esegui i seguenti comandi:
 ```
 npm install
-npm run compile:sass
+npm run sass:watch
 ```
 
 # NPM Project - istruzioni di set-up
