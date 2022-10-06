@@ -1,3 +1,11 @@
+# Come eseguire e sviluppare in locale
+
+Clona il repository e esegui il seguente comando:
+```
+npm install
+npm run compile:sass
+```
+
 # NPM Project - istruzioni di set-up
 
 ## Installazione di Node e Npm
