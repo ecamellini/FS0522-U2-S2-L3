@@ -6,6 +6,10 @@ npm install
 npm run sass:watch
 ```
 
+## Requisiti
+
+Devi avere installato `sass` - vedi https://sass-lang.com/install
+
 # NPM Project - istruzioni di set-up
 
 ## Installazione di Node e Npm
